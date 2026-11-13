@@ -1,0 +1,8 @@
+{
+  "package": "cancer_policy_graph",
+  "tests": "tests/policy_graph",
+  "entrypoint": "cancer_policy_graph.cli",
+  "fixture_prefix": [],
+  "database_flag": "--db",
+  "analysis_fixture": "fixtures/policy_impact.json"
+}

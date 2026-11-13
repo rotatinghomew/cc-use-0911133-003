@@ -1,0 +1,510 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-08-01",
+  "population_version": "roster-v1",
+  "funding_version": "fund-v2",
+  "residents": [
+    {
+      "subject_id": "resident-00",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 45,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": null,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-01",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 46,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 19500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-02",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 47,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 21000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2026-06-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-03",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 48,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 22500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-04",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 49,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 24000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-05",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 50,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": null,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-06",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 51,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 27000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-07",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 52,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 28500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-08",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 53,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 30000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-09",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 54,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 31500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-10",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 55,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": null,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-11",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 56,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 34500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-12",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 57,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 36000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-13",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 58,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 37500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-14",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 59,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 39000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-15",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 60,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": null,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-16",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 61,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 42000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-17",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 62,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 43500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-18",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 63,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 45000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-19",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 64,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 46500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-20",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 65,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": null,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-21",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 66,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 49500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-22",
+      "region": "west",
+      "attributes": {
+        "age": {
+          "value": 67,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 51000,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    },
+    {
+      "subject_id": "resident-23",
+      "region": "east",
+      "attributes": {
+        "age": {
+          "value": 68,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        },
+        "income": {
+          "value": 52500,
+          "valid_from": "2026-01-01",
+          "valid_until": "2027-01-01"
+        }
+      }
+    }
+  ],
+  "policies": [
+    {
+      "id": "universal",
+      "version": 1,
+      "status": "adjudicated",
+      "effective_from": "2026-01-01",
+      "effective_until": "2027-01-01",
+      "eligibility": {
+        "gte": [
+          "age",
+          50
+        ]
+      },
+      "payment": {
+        "amount": 80,
+        "payer": "public",
+        "cap": 80
+      },
+      "evidence": [
+        "doc-1:section-2"
+      ]
+    },
+    {
+      "id": "income-support",
+      "version": 1,
+      "status": "adjudicated",
+      "effective_from": "2026-01-01",
+      "effective_until": "2027-01-01",
+      "eligibility": {
+        "lte": [
+          "income",
+          30000
+        ]
+      },
+      "payment": {
+        "amount": 120,
+        "payer": "district",
+        "cap": 120,
+        "deduct_payments_of": [
+          "universal"
+        ]
+      },
+      "evidence": [
+        "doc-2:section-3"
+      ]
+    },
+    {
+      "id": "east-pilot",
+      "version": 2,
+      "status": "adjudicated",
+      "effective_from": "2026-07-01",
+      "effective_until": "2027-01-01",
+      "eligibility": {
+        "eq": [
+          "region",
+          "east"
+        ]
+      },
+      "payment": {
+        "amount": 100,
+        "payer": "pilot",
+        "cap": 100
+      },
+      "exclusive_with": [
+        "universal"
+      ],
+      "evidence": [
+        "doc-3:section-1"
+      ]
+    },
+    {
+      "id": "unresolved",
+      "version": 1,
+      "status": "disputed",
+      "effective_from": "2026-01-01",
+      "effective_until": "2027-01-01",
+      "eligibility": {
+        "gte": [
+          "age",
+          40
+        ]
+      },
+      "payment": {
+        "amount": 60,
+        "payer": "public",
+        "cap": 60
+      },
+      "evidence": [
+        "doc-4:conflict-1"
+      ]
+    }
+  ],
+  "baseline": [
+    "universal"
+  ],
+  "candidates": [
+    {
+      "name": "support",
+      "policies": [
+        "universal",
+        "income-support"
+      ]
+    },
+    {
+      "name": "pilot-conflict",
+      "policies": [
+        "universal",
+        "east-pilot"
+      ]
+    },
+    {
+      "name": "pending",
+      "policies": [
+        "unresolved"
+      ]
+    }
+  ],
+  "overall_payment_cap_per_person": 180
+}
